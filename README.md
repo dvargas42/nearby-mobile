@@ -52,7 +52,7 @@ Movie of the application in operation.
 
 **Running in android simulator:**
 
-[nearby-demo](./.github/demo.mp4)
+![](./.github/demo.mp4)
 
 
 ## 🚀 Technologies
